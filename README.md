@@ -16,4 +16,5 @@ This code has been tested at JDoodle (https://www.jdoodle.com/online-java-compil
 
 * test test -> esttay esttay esttay 
 * oink oink -> oinkay oinkay 
-* a man, a plan, a canal  : panama
+* a man, a plan, a canal  : panama -> aay anmay, aay lanpay, aay analcay :ay anamapay 
+
